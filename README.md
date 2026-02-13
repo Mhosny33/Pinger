@@ -151,14 +151,3 @@ Some networks may block ICMP (ping), causing false “Offline/Timeout” results
 📜 License
 
 Use it, modify it, break it, fix it, make it better.
-(If you want, you can add a proper license like MIT later.)
-
-If you want, I can also:
-
-Add CSV export
-
-Add continuous/looping ping mode
-
-Add parallel pinging for speed
-
-Add logging to file automatically 📈
